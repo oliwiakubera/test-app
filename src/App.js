@@ -13,13 +13,14 @@ function App() {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <button onClick={handleShowAlert}>Show alert</button>
+
           <a
               className="App-link"
-              href="https://reactjs.org"
+              href="https://github.com/oliwiakubera/test-app.git"
               target="_blank"
               rel="noopener noreferrer"
           >
-            Learn React
+            Repozytorium
           </a>
         </header>
       </div>
